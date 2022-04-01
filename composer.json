@@ -2,6 +2,7 @@
     "name": "agusn/autoload-class",
     "description": "autoload class php native",
     "type": "project",
+    "license": "GPL",
     "autoload": {
         "psr-4": {
             "Agusn\\AutoloadClass\\": "src/"
